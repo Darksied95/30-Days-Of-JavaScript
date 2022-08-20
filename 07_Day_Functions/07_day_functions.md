@@ -279,7 +279,7 @@ sumAllNums(1, 2, 3, 4)
 ```
 
 ```js
-// function declaration
+// arrow function
 ​
 const sumAllNums = (...args) => {
   let sum = 0
